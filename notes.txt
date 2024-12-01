@@ -1,6 +1,22 @@
+DEV TINDER : 
+a Microservices and MERN stack project
 
+Features :
+a. Create an account
+b. Login
+c. Update your profile
+d. Feed Page Explore
+e. Send connection request
+f. See the request we have sent and recieved
+g. See our matches
 
+LLD :
+DB design - User collecion fn, ln, eid, ps, pno, age, gen
 
+API design :
+REST API way of creaing API so tat FE can talk to BE and share req and res
+
+Key Notes :
 -npm init initalize node project which make package.json file.
 it is the simple metadata assosiated with project which tells about project (index)
 -SRC folder for the soure code flies.
