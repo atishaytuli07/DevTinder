@@ -1,0 +1,9 @@
+
+
+
+-npm init initalize node project which make package.json file.
+it is the simple metadata assosiated with project which tells about project (index)
+-SRC folder for the soure code flies.
+-app.js is starting point  of this project where we will write our code.
+-with express we can create Server writing code in js with the help of node.js and get package-lock.json which contain exact versions of dependencies
+-version has 3 letters " ^4.19.2 " which represent the major - backward compatable / minor - patch / small change. and ^ means it will be automaticall updated to new version minor + patch and ~ means it will be updated patch changes
